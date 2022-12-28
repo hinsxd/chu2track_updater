@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,a as c,b as _,F as n,r,p,d}from"./index.js";const l={},m=e=>(p("data-v-ce3968cb"),e=e(),d(),e),u=m(()=>c("header",null,[c("div",{class:"wrapper"})],-1));function i(e,h){const s=r("TheWelcome");return t(),a(n,null,[u,c("main",null,[_(s)])],64)}const v=o(l,[["render",i],["__scopeId","data-v-ce3968cb"]]);export{v as default};
